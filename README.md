@@ -55,7 +55,7 @@ This project analyzes Zomato restaurant data to uncover insights into restaurant
 ## 🖼️ Dashboard Previews
 
 ### Tableau Dashboard
-![Zomato tableau dashboard](screenshots/Zomato%20tableau%20dashboard.png)
+![Zomato tableau dashboard.png](screenshots/Zomato%20tableau%20dashboard.png)
 
 ### Power BI Dashboard
 ![Zomato tableau dashboard.png](screenshots/Zomato%20powerBI%20Dashboard.png)
