@@ -66,7 +66,14 @@ This project analyzes Zomato restaurant data to uncover insights into restaurant
 ---
 
 ### Business Insights
-- Cities with the **highest restaurant density** and most popular cuisines.  
-- Restaurants with **top ratings and customer votes** for targeted marketing strategies.  
-- **Price range analysis** to identify affordable vs premium restaurant clusters.  
-- Delivery and table booking trends to **improve customer engagement** and operational efficiency.
+- **Total Restaurants & Cuisine Diversity:** 9551 restaurants covering 1826 unique cuisines, indicating a highly diverse food market.  
+- **Average Rating Trends:** Average rating is 2.89. Restaurants with **table booking** have higher ratings (3.5) than those without (2.8).  
+- **City-wise Concentration:** New Delhi leads with 5473 restaurants, followed by Gurgaon (1118) and Noida (1080).  
+- **Top 10 Cuisines:** North Indian dominates (936 restaurants), followed by Chinese, Fast Food, and Cafe options.  
+- **Online Delivery Impact:** 74.3% of restaurants (7100) offer online delivery, highlighting the importance of digital ordering channels.  
+- **Year-wise Growth:** Steady growth over the years with a peak in 2018 (1102 new restaurants).
+-   
+- **Strategic Takeaways:**  
+  - Focus on cities with high restaurant density for marketing and expansion.  
+  - Table booking and online delivery options correlate with higher ratings.  
+  - Cuisine popularity insights can guide menu planning and promotions.
