@@ -65,4 +65,8 @@ This project analyzes Zomato restaurant data to uncover insights into restaurant
 
 ---
 
-## 📂 Repository Structure
+### Business Insights
+- Cities with the **highest restaurant density** and most popular cuisines.  
+- Restaurants with **top ratings and customer votes** for targeted marketing strategies.  
+- **Price range analysis** to identify affordable vs premium restaurant clusters.  
+- Delivery and table booking trends to **improve customer engagement** and operational efficiency.
